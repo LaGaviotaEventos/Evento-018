@@ -119,6 +119,12 @@ body {
     margin: 0 auto;
     padding-left: 20px;
 }
+
+.container-main .option .opcion-vegetariana {
+    border: none;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+}
 /*////////////////////////////////////////////////////////////////////////////*/
 .container-footer {
     align-items: center;
